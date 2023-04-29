@@ -21,3 +21,4 @@ urlpatterns = [
     path('', home_view),#index/ home / root
     path('admin/', admin.site.urls),
 ]
+# I need to finish and deploy this project
